@@ -1,0 +1,17 @@
+.btn {
+  margin-right: 24px;
+  color:white;
+  background-color: transparent;
+  border: none;
+font-size: 16px;
+}
+.active {
+  border-radius: 24px !important;
+  border: 1px solid white;
+  width: 94px;
+  height: 40px ;
+}
+
+.icon {
+  margin-right: 8px;
+}

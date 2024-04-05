@@ -1,0 +1,27 @@
+.HomeImage {
+  display: flex;
+  flex-direction: column;
+  width: 62%; 
+  height: 1150px;
+  margin: 0 auto;
+}
+.cityes {
+  display: flex;
+  gap:44px;
+  margin-top: 90px;
+}
+.type {
+  display: flex;
+  gap:22px;
+  margin: 0 auto;
+
+}
+.info {
+  display: flex;
+  gap:36px;
+  margin: 0 auto;
+
+}
+h1{
+margin: 28px 0;
+}

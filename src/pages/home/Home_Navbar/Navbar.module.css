@@ -1,0 +1,34 @@
+.nav_bar {
+  width: auto;
+  height: 120px;
+  padding: 24px 0;
+  background: rgb(6, 6, 154);
+  color: white;
+}
+.nav_bar h1 {
+  font-size: 24px;
+  font-weight: 400;
+}
+.div {
+  bottom: 28px;
+  width: 66%;
+  margin: 0 auto;
+  position: relative;
+}
+.btn {
+  height: 40px;
+  position: absolute;
+  top: 24px;
+  color: rgb(6, 6, 154);
+  background-color: rgb(255, 255, 255);
+  border: 1px solid rgba(255, 0, 0, 0);
+  font-size: 20px;
+}
+.btn-Register {
+  width: 100px;
+  right: 100px;
+}
+.btn-Login {
+  width: 80px;
+  right: 0px;
+}

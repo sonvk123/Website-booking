@@ -1,0 +1,55 @@
+.From {
+  flex: 1;
+  height: 550px;
+  background-color: rgb(245, 171, 60);
+  border: 1px solid rgb(255, 255, 255);
+  border-radius: 14px;
+}
+.From h1 {
+  margin: 12px;
+}
+.From h2 {
+  margin-left: 12px;
+  margin-bottom: 12px;
+  font-size: 18px;
+  font-weight: 600;
+}
+.Search div {
+  display: flex;
+  flex-direction: column;
+  margin-left: 12px;
+  margin-bottom: 12px;
+}
+.Search input {
+  width: 90%;
+  height: 44px;
+}
+.Optons {
+  position: relative;
+  height: auto;
+}
+.Optons div {
+  margin: 12px 0px 18px 24px;
+}
+.Optons input {
+  position: absolute;
+  width: 80px;
+  height: 24px;
+  right: 12px;
+}
+.btn {
+  position: relative;
+  width: 100%;
+  margin-top: 12px;
+}
+
+.btn button {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, 50%);
+  width: 90%;
+  height: 40px;
+  color: white;
+  background-color: rgb(59, 0, 252);
+  border: 1px solid rgb(255, 255, 255); 
+}

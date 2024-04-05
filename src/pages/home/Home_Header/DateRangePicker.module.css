@@ -1,0 +1,8 @@
+.Modal {
+}
+.date {
+  position: absolute;
+  left: 50%;
+  top: 90px;
+  transform: translate(-50%);
+}

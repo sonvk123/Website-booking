@@ -1,0 +1,15 @@
+.items {
+}
+.image {
+  width: 180px;
+  height: 150px;
+  border-radius: 12px;
+}
+
+.name {
+  font-size: 18px;
+  font-weight: bold;
+}
+.count {
+  font-size: 14px;
+}
